@@ -1,0 +1,7 @@
+{
+  "kty": "RSA",
+  "e": "AQAB",
+  "alg": "RS256",
+  "kid": "3PVendorAppJWT",
+  "n": "jESVmVFV6YgZCAcvhN1gCkKNPObnIahxjHdjRdLoV-9cCIjKY8M47-1ptFdTJm1IP0fcjlG0SiL20T9ZuZ-TLOEI_ooFgvC0QJsGMTQ8xGl98p5IU8AkafogN7huvON9OCjsXOrAMwSIsenPGMVfsjuCkSqIKeKzOM19oI1b_TSzu844ylEBGZIkPyb1J984SUM-5tT6yMWLCxjmaY-VKx4d1KqQLha5DX_pvx2yZ6fCcjVTFhRGEK0-uDw7f-mKxvzjctqh3E6eVu9eWztZwZjCewLGKqKT0CrUM9CqfeiU4QKiouqtfb0UdVFmHgv6QNKdZ1aQLtpk4tJFsAXY2w"
+}
